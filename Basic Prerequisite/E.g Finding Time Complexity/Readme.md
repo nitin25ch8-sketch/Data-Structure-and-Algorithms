@@ -160,12 +160,12 @@ for (i = 3; i <= n; i = i * i)
 - Time Complexity: O(log² n × log log n)
 
 ### ✅ Summary Table
-|Loop Type |	Time Complexity          |
-|----------------------------------------|
-|Simple Loop	| O(n)                   |
-|Increment / Decrement |	O(n)         |
-|Multiplication / Division |	O(log n) |
-|Power Update |	O(log log n)             |
-|Nested Loop (2 levels) |	O(n²)        |
-|Nested Loop (3 levels) |	O(n³)        |
-|Exponential Loop |	O(2ⁿ)                |
+|Loop Type                 |	Time Complexity  |
+|--------------------------|---------------------|
+|Simple Loop	           |    O(n)             |
+|Increment / Decrement     |	O(n)             |
+|Multiplication / Division |	O(log n)         |
+|Power Update              |	O(log log n)     |
+|Nested Loop (2 levels)    |	O(n²)            |
+|Nested Loop (3 levels)    |	O(n³)            |
+|Exponential Loop          |	O(2ⁿ)            |
