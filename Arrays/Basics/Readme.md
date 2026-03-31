@@ -271,7 +271,3 @@ return 0;
 
 ---
 
-If you want, I can also:
-✅ Make this README more **professional (with badges & screenshots)**
-✅ Add **output examples for each file**
-✅ Convert it into a **project report (for submission)**
