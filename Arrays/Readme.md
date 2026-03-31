@@ -26,7 +26,10 @@ int main(){
 ```
 
 ---
+## Source mode
+main.cpp
 
+---
 ## 🚀 Features
 
 * Shows how arrays are stored in memory
